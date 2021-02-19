@@ -1,0 +1,2 @@
+# Virtual-Assistant-Jarvis-using-python-pycharm
+This project is done by using Python Pycharm .This is a virtual assistant like siri,google,alexa which do some specific tasks through the voice commands,similarly this also works same way  it will tell you the time ,date,open any website,launch an application, tell you the news and information ,open web sites, shut down,it can tell the temperature in your city, it can do many things .
